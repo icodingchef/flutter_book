@@ -18,27 +18,27 @@
 - [Stateful 위젯 인스턴스 재사용 예제 앱](https://github.com/icodingchef/stateful_reinitialize/tree/updated)
 - [widget 속성 사용 예제 앱](https://github.com/icodingchef/stateful_widget)
 ## 제 10장: 버튼과 라우트
--[플러터 버튼 예제 앱](https://github.com/icodingchef/buttons)
--[앱화면 이동 예제 앱](https://github.com/icodingchef/navigator_ex)
+- [플러터 버튼 예제 앱](https://github.com/icodingchef/buttons)
+- [앱화면 이동 예제 앱](https://github.com/icodingchef/navigator_ex)
 ## 제 11장: 로그인 페이지와 코드 리팩토링
--[로그인 페이지 UI 앱](https://github.com/icodingchef/login_app)
+- [로그인 페이지 UI 앱](https://github.com/icodingchef/login_app)
 ## 제 12장: 반응형 레이아웃 앱
--[반응형 레이아웃 앱](https://github.com/icodingchef/login_responsive_app)
+- [반응형 레이아웃 앱](https://github.com/icodingchef/login_responsive_app)
 ## 제 13장: 로또 앱 구현하기
--[로또 앱 1단계](https://github.com/icodingchef/login_lotto)
--[로또 앱 2단계](https://github.com/icodingchef/login_responsive_lotto2)
--[로또 앱 3단계(최종)](https://github.com/icodingchef/login_lotto2)
+- [로또 앱 1단계](https://github.com/icodingchef/login_lotto)
+- [로또 앱 2단계](https://github.com/icodingchef/login_responsive_lotto2)
+- [로또 앱 3단계(최종)](https://github.com/icodingchef/login_lotto2)
 ## 제 14장: Future, async, await
--[Future 데이터 출력 앱](https://github.com/icodingchef/future_example)
--[Stream 데이터 출력 앱](https://github.com/icodingchef/stream_example)
+- [Future 데이터 출력 앱](https://github.com/icodingchef/future_example)
+- [Stream 데이터 출력 앱](https://github.com/icodingchef/stream_example)
 ## 제 15장: 날씨 앱 구현하기
--[날씨 앱 1단계](https://github.com/icodingchef/weather_app_part1)
--[날씨 앱 2단계](https://github.com/icodingchef/weather_app_part2)
+- [날씨 앱 1단계](https://github.com/icodingchef/weather_app_part1)
+- [날씨 앱 2단계](https://github.com/icodingchef/weather_app_part2)
 ## 제 16장: 파이어베이스
--[Firebase 앱](https://github.com/icodingchef/login_lotto2/tree/login_lotto2_firebase)
+- [Firebase 앱](https://github.com/icodingchef/login_lotto2/tree/login_lotto2_firebase)
 ## 제 17장: 상태 관리 입문
--[Provider 위젯을 사용한 상태 관리 앱](https://github.com/icodingchef/provider_app1)
--[ChangeNotifierProivder 위젯을 사용한 상태 관리 앱](https://github.com/icodingchef/provider_app2)
+- [Provider 위젯을 사용한 상태 관리 앱](https://github.com/icodingchef/provider_app1)
+- [ChangeNotifierProivder 위젯을 사용한 상태 관리 앱](https://github.com/icodingchef/provider_app2)
 ## 부록: ChatGPT와 프로그래밍의 미래
 
 
