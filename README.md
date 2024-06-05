@@ -27,7 +27,7 @@
 - [Stateful 위젯 인스턴스 재사용 예제 앱](https://github.com/icodingchef/stateful_reinitialize/tree/updated)
 - [widget 속성 사용 예제 앱](https://github.com/icodingchef/stateful_widget)
 ## 제 10장: 버튼과 라우트
-- 플러터 앱에서 사용되는 버튼들과 페이지 이동 구현 방법을 알아봅니다. 특히 페이지 이동과 관련해서 플러터 입문자들이 가장 어려워 하는 개념중에 하나인 BuildContext에 대해서도 알아봅니다.
+- 플러터 앱에서 사용되는 버튼들과 페이지 이동 구현 방법을 알아봅니다. 특히 페이지 이동과 관련해서 플러터 입문자들이 가장 어려워 하는 개념중에 하나인 "BuildContext"에 대해서도 알아봅니다.
 - [플러터 버튼 예제 앱](https://github.com/icodingchef/buttons)
 - [앱화면 이동 예제 앱](https://github.com/icodingchef/navigator_ex)
 ## 제 11장: 로그인 페이지와 코드 리팩토링
